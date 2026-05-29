@@ -78,7 +78,7 @@ Showcases full analytics workflow: data → model → insight
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/ayushi-pundir
+- 💼 Linkedin: https://www.linkedin.com/in/ayushi-pundir-7a4b6a262?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 📧 Email: ayushi.pundir100@gmail.com
 
 ---
