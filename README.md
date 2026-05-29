@@ -2,7 +2,8 @@
 
 ## I'm Ayushi Pundir  
 
-🎓 B.Com Graduate | 📊 Aspiring Data Analyst | 📍 Bengaluru  
+ Welcome to my little corner of github!
+ I am passionate about growing in my    career,picking up new tech skills.
 
 ⭐ “Turning data into meaningful insights.”
 
