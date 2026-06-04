@@ -24,6 +24,17 @@
 - 📋 Power Query & DAX  
 
 📂 Featured Projects
+
+🏨 Hotel Booking Analytics – OYO
+
+Power BI | DAX | Star Schema | Hospitality Data
+
+Analyzed hotel booking data across cities and states to uncover revenue and occupancy trends
+Built 3 dashboards: Sales Overview, Hotel Performance, and Booking Channel Analysis
+Tracked key KPIs — ADR, RevPAR, and Occupancy % — across property types and room categories
+Segmented customers using RFM analysis to identify high-value booking patterns
+
+
 📉 Customer Segmentation & Electronics Sales Analysis
 
 Power BI | DAX | CSV Data
